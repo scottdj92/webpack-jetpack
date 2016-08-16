@@ -2,10 +2,10 @@
   "name": "webpack-jetpack",
   "version": "1.0.0",
   "description": "An Electron application for creating Webpack configurations.",
-  "main": "main.js",
+  "main": "./main.js",
   "scripts": {
     "test": "npm run test",
-    "start": "electron ."
+    "start": "electron src/app/index.html"
   },
   "repository": {
     "type": "git",

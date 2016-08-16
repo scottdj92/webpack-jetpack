@@ -1,5 +1,7 @@
 var app = require('app');
 var BrowserWindow = require("browser-window");
+var remote = app.remote;
+var dialog = app.dialog;
 
 //get a reference to the main window
 var mainWindow = null;
