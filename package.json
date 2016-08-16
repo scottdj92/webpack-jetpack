@@ -1,0 +1,24 @@
+{
+  "name": "webpack-jetpack",
+  "version": "1.0.0",
+  "description": "An Electron application for creating Webpack configurations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottdj92/webpack-jetpack.git"
+  },
+  "keywords": [
+    "Electron",
+    "Webpack",
+    "JavaScript"
+  ],
+  "author": "Scott Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottdj92/webpack-jetpack/issues"
+  },
+  "homepage": "https://github.com/scottdj92/webpack-jetpack#readme"
+}
